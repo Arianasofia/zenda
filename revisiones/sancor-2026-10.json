@@ -1,0 +1,45 @@
+{
+ "cliente": "Grupo Sancor Seguros", "periodo": "Octubre 2026", "periodo_plan": "octubre", "badge_plan": "Septiembre 2026 · $56.017.062",
+ "kicker": "plan de acción / octubre 2026",
+ "bajada": "Acciones por medio para mejorar el rendimiento en octubre, a partir de los resultados de septiembre.",
+ "stats": [
+  {"label": "Inversión septiembre", "valor": "$56M", "sub": "CPA promedio $12.238"},
+  {"label": "Conversiones", "valor": "4.577", "sub": "Cotizaciones completas"},
+  {"label": "Objetivos cumplidos", "valor": "5 de 8", "sub": "VAI, AP y Caución por debajo"},
+  {"label": "Acciones", "valor": "22", "sub": "Google · Meta · transversales"}
+ ],
+ "tabla": {"columnas": ["Producto", "Objetivo", "Resultado", "Cumplimiento"],
+  "filas": [["VAI", "760", "242", "32%"], ["AP", "709", "583", "82%"], ["Caución", "39", "34", "87%"], ["PR", "430", "430", "100%"], ["Auto", "765", "888", "116%"], ["Movilidad", "237", "329", "138%"], ["Moto", "566", "932", "164%"], ["PS", "576", "1.078", "187%"]]},
+ "contexto": "Septiembre cerró con $56.017.062 de inversión y 4.577 conversiones, a un CPA promedio de $12.238 (+3,5% contra agosto). Las prioridades de octubre son VAI, AP y Caución, que quedaron por debajo del objetivo, y bajar el CPA de Auto, que se lleva la mitad de la inversión.",
+ "medios": [
+  {"id": "google", "nombre": "Google Ads", "badge": "80% de la inversión", "lead": "Performance Max tiene el mejor CPA en casi todos los productos, mientras que Search Not Brand y Category Intent concentran inversión con CPA muy por encima.",
+   "filas": [
+    ["Conversión de Brand Auto", "\"sancor seguros auto\": 13.662 clics y 160 conversiones (1,2%). CPA de Brand $40.272 contra $18.793 de PMax", "Revisar el cotizador desde Brand, la cuota de impresiones y si hay competidores pujando por la marca"],
+    ["Category Intent Auto", "$6.971.885 con 130 conversiones, CPA $53.692, el más alto de Auto", "Bajar presupuesto, depurar términos de búsqueda y pasar parte a PMax Auto"],
+    ["Caída de VAI", "242 de 760 conversiones (32%), −42% contra agosto. Brand VAI: CPA $3.480 con $149.631", "Revisar medición, landing y presupuesto; confirmar si Brand VAI está limitada por presupuesto"],
+    ["Search Not Brand PS", "$1.799.835 con 54 conversiones, CPA $33.330 contra $4.700 de PMax", "Bajar pujas en \"obra social\" y \"cobertura medica\" y pasar presupuesto a PMax"],
+    ["Search Not Brand Movilidad", "$2.341.784, CPA $18.904 contra $6.861 de PMax ($478.234)", "Pasar presupuesto de Not Brand a PMax"],
+    ["AP por debajo del objetivo", "Faltaron 126 conversiones. PMax CPA $3.580, Not Brand $12.517", "Reforzar PMax AP con presupuesto de Not Brand"],
+    ["Calidad de cotizaciones PS", "El 02/09 se quitaron exclusiones de sitios de finanzas y subieron las cotizaciones de PMax", "Validar con el negocio que esas cotizaciones tengan la misma calidad"],
+    ["Demand Gen NOA", "$786.992 sin conversiones medidas", "Definir el KPI (alcance, visitas o búsquedas de marca en NOA) antes de seguir invirtiendo"]]},
+  {"id": "meta", "nombre": "Meta Ads", "badge": "17% de la inversión", "lead": "Meta tiene el CPA más bajo en AP y PR, pero Auto y el remarketing de PS pierden eficiencia, y los mejores creativos tienen más de seis meses.",
+   "filas": [
+    ["Remarketing de Auto", "$1.208.576 con 12 conversiones, CPA $100.715", "Bajar inversión, renovar creativos y evaluar pasar ese presupuesto a PMax Auto"],
+    ["Creativos desactualizados", "Los mejores anuncios de Auto y PS son \"30% OFF Julio 2025\" y \"Diferenciales Familia - MAR 25\"", "Producir variantes nuevas de \"Diferenciales Familia\" y de la promo vigente"],
+    ["AP en Meta", "CPA $2.839, el más bajo de AP", "Subir presupuesto para cubrir las 126 conversiones faltantes"],
+    ["Caída de PS en Meta", "−34% contra agosto. RMKT CPA $19.145; WhatsApp $6.571; Forms $9.677", "Pasar inversión de RMKT a WhatsApp y Forms, y medir la calidad de esos leads"],
+    ["Landing nueva de PR", "Ganó el A/B test: 180 conversiones a $3.880", "Escalar la campaña con la landing nueva con presupuesto de Search PR"],
+    ["VAI en Meta", "$104.823 con 6 conversiones, CPA $17.470", "Dar dos semanas al test de Advantage+ y LAL; si el CPA no baja de $10.000, volver el presupuesto a Brand VAI"],
+    ["Caución", "34 de 39 conversiones, CPA $11.690", "Sumar unos $60.000 para cubrir las 5 que faltaron"],
+    ["ION en WhatsApp", "Conversiones V2: 152 a $5.281. El evento de Botmaker no está definido", "Definir el evento en Meta para optimizar por conversaciones calificadas"]]}
+ ],
+ "badge_cierre": "Revisión 15/10",
+ "transversales": [
+  {"titulo": "Reasignación de TikTok", "texto": "Pasar los $1.425.487 de TikTok (8 conversiones, pausado desde octubre) a PMax de AP, VAI y Auto."},
+  {"titulo": "Integración con Botmaker", "texto": "Conectar Botmaker con Google Ads y Meta para medir y optimizar ION por conversaciones calificadas."},
+  {"titulo": "Lanzamiento de Agro", "texto": "Definir objetivo y KPIs antes de evaluar su primer mes completo."},
+  {"titulo": "Consistencia de datos", "texto": "Unificar la fuente de conversiones: Auto aparece con 896, 888 y 879 según la lámina, y PS con 933, 934 y 1.078."},
+  {"titulo": "Revisión de mitad de mes", "texto": "El 15/10: Auto Brand y Category Intent, VAI, Not Brand de PS y Movilidad, y remarketing de Auto en Meta."},
+  {"titulo": "Seguimiento en el reporte", "texto": "Llevar este plan al reporte de octubre y marcar qué se hizo y qué resultado dio cada cambio."}
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__SeePM__list_clients",
+      "mcp__SeePM__list_accounts",
+      "mcp__SeePM__discover_accounts",
+      "mcp__SeePM__list_platform_tools",
+      "mcp__SeePM__list_seepm_actions",
+      "mcp__SeePM__brain_read",
+      "mcp__SeePM__brain_search",
+      "mcp__SeePM__brain_proposals",
+      "mcp__SeePM__call_platform_tool",
+      "mcp__Meta_MCP__ads_get_ad_accounts",
+      "mcp__Meta_MCP__ads_get_ad_entities",
+      "mcp__Meta_MCP__ads_get_field_context",
+      "mcp__Meta_MCP__ads_get_creatives",
+      "mcp__Meta_MCP__ads_get_ad_preview",
+      "mcp__Meta_MCP__ads_get_ad_images",
+      "mcp__Meta_MCP__ads_get_ad_videos",
+      "mcp__Meta_MCP__ads_insights_performance_trend"
+    ]
+  }
+}

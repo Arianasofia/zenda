@@ -1,0 +1,48 @@
+{
+ "cliente": "pickit", "periodo": "Octubre 2026", "periodo_plan": "octubre", "badge_plan": "$9.111.000 · plan cerrado",
+ "kicker": "revisión de medios / octubre 2026",
+ "bajada": "Qué revisar en cada medio a partir de los resultados de septiembre y el media plan de octubre.",
+ "stats": [
+  {"label": "Media plan octubre", "valor": "$9,1 M", "sub": "−39,8% vs septiembre"},
+  {"label": "Google Ads", "valor": "$3,7 M", "sub": "7 puntos a revisar"},
+  {"label": "Meta Ads", "valor": "$3,6 M", "sub": "9 puntos a revisar"},
+  {"label": "LinkedIn Ads", "valor": "$1,7 M", "sub": "5 puntos a revisar"}
+ ],
+ "contexto": "El media plan de octubre es de $9.111.000, 39,8% menos que lo invertido en septiembre. Google lleva $3.724.500, Meta $3.637.500 y LinkedIn $1.749.000. Los cambios más grandes son Puntos con landing, Perú en Google, el aumento de Branding en LinkedIn y Pickers sin pauta.",
+ "medios": [
+  {"id": "google", "nombre": "Google Ads", "badge": "$3.724.500", "lead": "Google trajo 23 de los 27 leads calificados de B2B en septiembre: lo principal es no perder volumen con el recorte en Argentina.",
+   "filas": [
+    ["Volumen de búsqueda en Perú", "623 impresiones en medio mes; el plan le da $1,25 M", "Confirmar que hay búsquedas para gastar el presupuesto. Si no, sumar keywords o ampliar concordancia"],
+    ["\"logistica flex\" en AR", "45% de la inversión de Flex & Same Day sin calificados", "Bajar puja, agregar negativas o pausarla"],
+    ["Términos de marca en AR", "\"pickit logistica\" y \"pickit mercado libre\" trajeron 3 de 7 calificados", "Que no se queden sin presupuesto con el recorte del 63%"],
+    ["Banca & Fintech MX", "\"retiro de paquetes\": 6 calificados con 12% de la inversión", "Pasarle presupuesto o puja desde \"servicio de envio de paquetes\""],
+    ["Ecommerce & Shopify MX", "$572.327 sin calificados; en octubre tiene $513.000", "Si a mitad de mes sigue sin calificados, bajarle inversión"],
+    ["CPA objetivo duplicado", "Ecommerce & Shopify y UGC con el mismo CPA ($206.442)", "Confirmar si quedó copiado en el plan"],
+    ["Carga del lead calificado", "La puja optimiza con lo que llega a la plataforma", "Confirmar cada cuánto se carga el calificado"]]},
+  {"id": "meta", "nombre": "Meta Ads", "badge": "$3.637.500", "lead": "Lo más urgente es Puntos: las campañas pasan del formulario de Meta a una landing con formulario y optimizan por lead en la landing.",
+   "filas": [
+    ["Evento de lead en la landing de Puntos", "Campañas nuevas con objetivo de lead en landing", "Verificar pixel y API de conversiones, y que la campaña optimice por ese evento"],
+    ["Velocidad de la landing en celular", "Tráfico casi todo mobile", "Medir carga y ajustar antes de escalar"],
+    ["CPL de Puntos con landing", "Formulario de Meta: $1.341 en Reemplazo, $3.267 en Same Day", "Comparar la primera semana y la calidad del lead con el negocio"],
+    ["Same Day en cinco radios", "Entre $117.000 y $261.000 por mes cada uno", "Ver si salen de aprendizaje o si conviene agruparlos"],
+    ["Pixel de Perú", "35 clics y ninguna conversión", "Confirmar que registra el lead calificado antes de gastar los $75.000"],
+    ["B2B Argentina", "Calificado más barato del mes ($63.380); en octubre tiene $262.500", "Si el costo se mantiene en la primera quincena, sumarle presupuesto. Repetir imagen única, no carruseles"],
+    ["B2B México", "1 conversión; el plan duplica la inversión a $150.000", "Seguirlo de cerca la primera quincena"],
+    ["Creativos de C2C", "Frecuencia 3,69. Video vertical con el CPA más bajo ($25.399). Single Image 5: 20 onboardings", "Tener piezas nuevas listas, darle más peso al video y hacer variantes de Single Image 5"],
+    ["Pickers", "Sin pauta en octubre", "Pedir al negocio el costo por registro de Ingeniero Budge y Virrey del Pino para decidir si vuelve"]]},
+  {"id": "linkedin", "nombre": "LinkedIn Ads", "badge": "$1.749.000", "lead": "LinkedIn baja 44% pero Branding se multiplica por 7: hay que definir cómo se mide antes de que arranque.",
+   "filas": [
+    ["KPIs de Branding", "De $175.737 a $1,25 M sin objetivo de conversión", "Acordar alcance, frecuencia, CPM e interacción como medida"],
+    ["Audiencia y frecuencia de Branding", "AR + MX con 7 veces más presupuesto", "Revisar tamaño de audiencia y poner tope de frecuencia si hace falta"],
+    ["Creativos de Branding", "Un post explicó 41 de los 75 clics. Ningún carrusel superó el CTR promedio (0,52%)", "Repetir el formato y el mensaje de ese post; no usar carruseles"],
+    ["Tráfico web México", "CPC de $15.093; los $499.500 dan unos 33 clics", "Ver si la audiencia ampliada el 28/9 bajó el costo. Si no, discutir pasarlo a Google México"],
+    ["Seguimiento de conversiones", "$2,8 M en campañas de conversión sin una sola conversión", "Revisar Insight Tag y evento antes de volver a activar conversión"]]}
+ ],
+ "badge_cierre": "Revisión 15/10",
+ "transversales": [
+  {"titulo": "Media plan", "texto": "Corregir el cuadro del resumen por medio, que no coincide con la suma de las campañas."},
+  {"titulo": "Leads calificados", "texto": "Acordar con el negocio que pase los calificados todas las semanas, no a fin de mes, para optimizar sobre datos reales."},
+  {"titulo": "Mitad de mes", "texto": "El 15/10 repasar Puntos con landing, Perú en Google, Ecommerce & Shopify en México y Branding en LinkedIn."},
+  {"titulo": "Próximo reporte", "texto": "Llevar esta lista al reporte de octubre y marcar qué se hizo y qué resultado dio cada cambio."}
+ ]
+}

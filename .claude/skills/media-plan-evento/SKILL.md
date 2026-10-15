@@ -37,6 +37,8 @@ El día común es la inversión diaria real del cliente **en cada medio**, filtr
 - Cada escenario es una suba porcentual sobre el día común de cada medio. Referencia: conservador +20 a 30 %, ampliado +40 a 60 %.
   - Una suba de 2 o 3 veces el día común no la aprueba nadie. Si el cliente pide más, que sea una decisión explícita suya.
 - **Presupuesto de cada medio** = día común × (1 + suba) × días del flight. El total es la suma de los medios.
+- **El ampliado no reparte la plata extra en partes iguales.** Toma el conservador tal cual y suma el incremental (total ampliado − total conservador) a las campañas con mejor CPA o que generan conversiones. El reparto del incremental va como dos o tres % en Supuestos. Si se reparte igual, los resultados crecen exactamente lo mismo que la inversión y el cliente no ve para qué pagar más.
+- Avisá en el chat si la diferencia de resultados entre escenarios es chica y ofrecé dejar un solo escenario más una línea de inversión adicional opcional.
 - Dentro de cada medio, el reparto entre campañas o grupos se carga como **% del medio**. Más peso a lo que más rinde o más alcance tiene; menos a las audiencias chicas (por ejemplo un remarketing con pocas personas).
 
 ## Proyección: fórmulas que entiende cualquiera

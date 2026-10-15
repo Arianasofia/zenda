@@ -78,7 +78,8 @@ El detalle completo está en `references/estructura.md`.
 
 - **Lo único que va escrito son leyendas para el cliente,** debajo de cada cuadro: de dónde salen los datos o qué aclara el cuadro.
 - Lo que haya que decirle al equipo (dudas, supuestos a validar, decisiones pendientes) va por el chat, no en la planilla.
-- Supuestos resumidos en una sola tabla al pie del MP, no en una hoja aparte con muchos cuadros.
+- Supuestos al pie del MP, solo lo esencial para calcular: período (inicio, fin, días), suba sobre el día común por escenario, reparto del extra, suba de costos y frecuencia. Sin columna de aclaraciones. La distribución diaria va en el BGT, no en el MP.
+- Confirmá el período de cada medio antes de armar: a veces el plan es solo la previa y no cubre el evento.
 - Sin hojas o celdas de "controles" internos a la vista del cliente. Los controles se hacen antes de entregar (ver abajo).
 - Títulos descriptivos, castellano rioplatense, números en formato es-AR, sin vocabulario de IA.
 

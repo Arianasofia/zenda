@@ -41,8 +41,8 @@ Sin norte definido por el cliente. Dos escenarios: **conservador** y **agresivo*
 
 ## Fechas
 - Evento: Cyber Monday del 2 al 4/11/2026; se prevé que se extienda a Cyber Week hasta el domingo 8/11.
-- LinkedIn: pre-cyber del 15/10 al 23/10 (9 días, $25.000 por día, $225.000, igual en los dos escenarios). Se prende ya.
-- Meta y Google: 26/10 al 8/11 (14 días). Lanzamiento la última semana de octubre o apenas estén listos los boost de LinkedIn.
+- Todo el plan es de previa: los tres medios corren del 15/10 al 23/10 (9 días). No sigue durante el Cyber.
+- Conservador $776.250 (LinkedIn $225.000, Meta $101.250, Google $450.000). Agresivo $931.500 (el extra va 70 % a intereses de Meta y 30 % a PMax). Lanzamiento la última semana de octubre o apenas estén listos los boost de LinkedIn.
 - Curva diaria: previa 5-6 % por día, Cyber Monday 10 % por día (30 % en tres días) y resto de la semana entre 9 % y 7 %.
 
 ## Implicancias para el plan

@@ -6,7 +6,8 @@ Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media
 - Público B2B: empresas, e-commerce y sellers que van a vender mucho en el Cyber Monday (2 al 4/11/2026).
 - **Objetivo: presencia.** Aparecer como aliado logístico en el momento en que esas empresas sienten la presión del pico. Nadie cambia su logística entera de un día para otro: la meta es figurar y quedar en la cabeza, no cerrar ventas en la semana.
 - **Los textos no mencionan "Cyber Monday".** Hablan del pico de ventas, de la demanda y de la capacidad logística.
-- Medios: LinkedIn Ads, Meta Ads y Google Ads.
+- Medios: LinkedIn Ads, Meta Ads y Google Ads. Solo Argentina.
+- Media plan: media-plans/pickit/MP_Cyber_B2B_AR_2026_Pickit.xlsx (Drive: "MP Cyber B2B Argentina 2026 - Pickit (escenarios)").
 
 ## Estrategia por medio
 - **LinkedIn:** arranca con boost de posts en una campaña de awareness. La audiencia ya está armada (pendiente: print de la configuración).
@@ -33,5 +34,5 @@ Sin norte definido por el cliente. Se presentan dos escenarios:
 
 ## Pendientes
 - Print de la audiencia de LinkedIn.
-- Países (¿solo Argentina?).
+
 - KPI de Meta: conversión (¿qué evento?) o tráfico.

@@ -17,7 +17,7 @@ Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media
   - Presupuesto cargado: $700.000 (escenario arriesgado).
   - Previsión de LinkedIn a 30 días: inversión $270.000 a $699.583, alcance 43.000 a 77.000, costo por 1.000 alcanzados $5.436 a $6.390.
   - Por función: Operaciones 45 %, Desarrollo empresarial 19 %, Ventas 13 %, Liderazgo 8 %, Administración 5 %.
-- **Meta:** una sola campaña de tráfico web (AR_B2B_FB_Trafico_Cyber2026) con dos grupos de anuncios y presupuesto por grupo: público similar 1-3 % de la BBDD (más peso) y remarketing con la BBDD.
+- **Meta:** una sola campaña de tráfico web (AR_B2B_FB_Trafico_Cyber2026) con tres grupos de anuncios y presupuesto por grupo: público similar 1-3 % de la BBDD (45 %), intereses e-commerce: Mercado Libre, Tienda Nube, etc. (40 %) y remarketing con la BBDD (15 %, la audiencia quedó chica).
 - **Google Ads:** Performance Max con señales de audiencia: términos de búsqueda y remarketing con la BBDD.
 
 ## Mensaje central
@@ -26,10 +26,17 @@ Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media
 Usar este mensaje como eje de todos los textos (títulos, descripciones, posts, assets de PMax), adaptado a cada medio.
 
 ## Presupuesto
-Sin norte definido por el cliente. Se presentan dos escenarios:
-Día común de B2B Argentina: $121.292 (inversión real de Google, Meta y LinkedIn del 15/09 al 14/10, vía SeePM).
-1. **Conservador:** $2.100.000 en 14 días, $150.000 por día (24 % más que un día común). LinkedIn 30 %, Meta 30 %, Google 40 %.
-2. **Arriesgado:** $3.500.000 en 14 días, $250.000 por día (2,1 veces un día común). LinkedIn $700.000 (20 %), Meta 40 %, Google 40 %.
+Sin norte definido por el cliente. Dos escenarios: **conservador** y **ampliado** (no "arriesgado": tiene connotación negativa).
+- Día común = inversión diaria **solo de B2B Argentina** por medio (campañas H2/B2B, nunca el total de la cuenta). Fuente: Budget control de octubre. LinkedIn $20.000, Meta $9.000, Google $40.000 (Google B2B no gasta más de $40.000 por día).
+- Conservador: +25 % sobre el día común de cada medio → $86.250 por día, $1.207.500 en 14 días (LinkedIn $350.000, Meta $157.500, Google $700.000).
+- Ampliado: +50 % → $103.500 por día, $1.449.000 en 14 días (LinkedIn $420.000, Meta $189.000, Google $840.000).
+- Ojo: en LinkedIn se cargaron $700.000 cuando el plan anterior era más alto; con el plan nuevo el máximo es $420.000.
+
+## Formato del MP (feedback de Ariana)
+- Fórmulas simples, como las armaría un manager senior: Impresiones = Inversión / CPM × 1000; Clics = Inversión / CPC; Conversiones = Clics × CR. Nada de BUSCARV anidados ni SI.ERROR encadenados.
+- Supuestos resumidos en una sola tabla al pie de la hoja del MP, no en una hoja aparte.
+- Benchmarks en una tabla de referencia al pie, con la suba por temporada aplicada ahí (CPM y CPC con suba).
+- El archivo está en configuración regional es-AR: en fórmulas con varios argumentos se usa ";".
 
 ## Fechas
 - Evento: Cyber Monday del 2 al 4/11/2026; se prevé que se extienda a Cyber Week hasta el domingo 8/11.

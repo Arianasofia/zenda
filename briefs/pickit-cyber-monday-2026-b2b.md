@@ -14,7 +14,7 @@ Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media
   - Argentina, español. Cargos de logística, supply chain, operaciones, cofundador, director general y afines.
   - Y además: intereses (comercio electrónico, almacenamiento y logística, plataformas e-commerce, software de envíos) o la lista de empresas "Lista Empresas - Flex".
   - Excluye personas sin empleo. Expansión de audiencia desactivada. Tamaño: más de 160.000 miembros.
-  - Presupuesto cargado: $700.000 (escenario arriesgado).
+  - Presupuesto cargado: $700.000 (hay que bajarlo a $350.000).
   - Previsión de LinkedIn a 30 días: inversión $270.000 a $699.583, alcance 43.000 a 77.000, costo por 1.000 alcanzados $5.436 a $6.390.
   - Por función: Operaciones 45 %, Desarrollo empresarial 19 %, Ventas 13 %, Liderazgo 8 %, Administración 5 %.
 - **Meta:** una sola campaña de tráfico web (AR_B2B_FB_Trafico_Cyber2026) con tres grupos de anuncios y presupuesto por grupo: público similar 1-3 % de la BBDD (45 %), intereses e-commerce: Mercado Libre, Tienda Nube, etc. (40 %) y remarketing con la BBDD (15 %, la audiencia quedó chica).
@@ -26,11 +26,12 @@ Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media
 Usar este mensaje como eje de todos los textos (títulos, descripciones, posts, assets de PMax), adaptado a cada medio.
 
 ## Presupuesto
-Sin norte definido por el cliente. Dos escenarios: **conservador** y **ampliado** (no "arriesgado": tiene connotación negativa).
+Sin norte definido por el cliente. Dos escenarios: **conservador** y **agresivo** (no "arriesgado": tiene connotación negativa).
 - Día común = inversión diaria **solo de B2B Argentina** por medio (campañas H2/B2B, nunca el total de la cuenta). Fuente: Budget control de octubre. LinkedIn $20.000, Meta $9.000, Google $40.000 (Google B2B no gasta más de $40.000 por día).
 - Conservador: +25 % sobre el día común de cada medio → $86.250 por día, $1.207.500 en 14 días (LinkedIn $350.000, Meta $157.500, Google $700.000).
-- Ampliado: +50 % → $103.500 por día, $1.449.000 en 14 días (LinkedIn $420.000, Meta $189.000, Google $840.000).
-- Ojo: en LinkedIn se cargaron $700.000 cuando el plan anterior era más alto; con el plan nuevo el máximo es $420.000.
+- Agresivo: +50 % en total → $103.500 por día, $1.449.000 en 14 días. Toma el conservador y suma el incremental ($241.500) 70 % al grupo de intereses de Meta y 30 % a PMax, por costo por lead calificado (LinkedIn $350.000, Meta $326.550, Google $772.450).
+- Conversiones: se proyectan leads de sellers y leads calificados (el importante es el calificado).
+- Ojo: en LinkedIn se cargaron $700.000 cuando el plan anterior era más alto; con el plan nuevo es $350.000 en los dos escenarios.
 
 ## Formato del MP (feedback de Ariana)
 - Fórmulas simples, como las armaría un manager senior: Impresiones = Inversión / CPM × 1000; Clics = Inversión / CPC; Conversiones = Clics × CR. Nada de BUSCARV anidados ni SI.ERROR encadenados.

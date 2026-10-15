@@ -18,7 +18,7 @@ Estética de la agencia (paleta, tipografía, KPI cards): skill de identidad vis
   - Impresiones de cada escenario o el KPI principal del objetivo.
 
 ### 2. Comparativo de escenarios
-Columnas: Indicador, Conservador, Ampliado, Diferencia (`=Ampliado/Conservador-1`).
+Columnas: Indicador, Conservador, Agresivo, Diferencia (`=Agresivo/Conservador-1`).
 
 Filas, todas referencias a los totales del detalle:
 - Inversión
@@ -31,12 +31,12 @@ Filas, todas referencias a los totales del detalle:
 - Conversiones estimadas
 
 ### 3. Inversión por medio
-Columnas: Medio, Conservador, %, Ampliado, % y fila TOTAL.
+Columnas: Medio, Conservador, %, Agresivo, % y fila TOTAL.
 
 Monto del medio = inversión diaria del escenario × días.
 
 ### 4. Inversión diaria vs. día común
-Columnas: Medio, Día común (dato cargado), Conservador, Vs. día común, Ampliado, Vs. día común.
+Columnas: Medio, Día común (dato cargado), Conservador, Vs. día común, Agresivo, Vs. día común.
 - Conservador = `Día común*(1+suba conservador)`.
 - Vs. día común = `Conservador/Día común-1`, con formato `+0%`.
 - Fila TOTAL.
@@ -57,7 +57,7 @@ Columnas: Concepto | Valor | Aclaración.
 - Fin
 - Días (`=Fin-Inicio+1`)
 - Suba de inversión diaria · conservador
-- Suba de inversión diaria · ampliado
+- Suba de inversión diaria · agresivo
 - Suba de CPM y CPC por temporada
 - Frecuencia (si hay awareness)
 

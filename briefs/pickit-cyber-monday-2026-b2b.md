@@ -3,7 +3,7 @@
 Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media plan y para los textos de cada medio.
 
 ## Convenciones del cliente
-- "Pickit" va siempre con la primera letra en mayúscula en todo texto (anuncios, planillas, reportes). Las URL (landing.pickit.net) quedan en minúscula.
+- "pickit" va siempre todo en minúscula en todo texto (anuncios, planillas, reportes), también al inicio de una oración.
 
 ## Objetivo y público
 - Público B2B: empresas, e-commerce y sellers que van a vender mucho en el Cyber Monday (2 al 4/11/2026).

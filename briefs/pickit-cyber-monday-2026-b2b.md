@@ -2,6 +2,9 @@
 
 Brief de campaña. Fuente: pedido de Ariana del 15/10/2026. Se usa para el media plan y para los textos de cada medio.
 
+## Convenciones del cliente
+- "Pickit" va siempre con la primera letra en mayúscula en todo texto (anuncios, planillas, reportes). Las URL (landing.pickit.net) quedan en minúscula.
+
 ## Objetivo y público
 - Público B2B: empresas, e-commerce y sellers que van a vender mucho en el Cyber Monday (2 al 4/11/2026).
 - **Objetivo: presencia.** Aparecer como aliado logístico en el momento en que esas empresas sienten la presión del pico. Nadie cambia su logística entera de un día para otro: la meta es figurar y quedar en la cabeza, no cerrar ventas en la semana.
@@ -52,3 +55,9 @@ Sin norte definido por el cliente. Dos escenarios: **conservador** y **agresivo*
 ## Pendientes
 - Tamaño de las bases de datos de Meta (BBDD y público similar).
 - Términos de búsqueda para la señal de PMax.
+
+
+## Google: Search en lugar de PMax (16/10)
+- El cliente prefirió una campaña de búsqueda (AR_B2B_H2_GL_Search_CyberMonday_2026) porque PMax no llega a salir del aprendizaje en 9 días.
+- Se diferencia de AR_Flex_SameDay por segmento: tienda propia (Tiendanube, VTEX, Shopify, WooCommerce), envíos en el día y pymes. Grupo 4 opcional con "envíos flex" en exacta.
+- Propuesta y anuncio combinado con los textos del cliente en la pestaña "Search Cyber" de la copia de Ariana del MP.

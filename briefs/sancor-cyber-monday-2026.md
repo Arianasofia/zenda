@@ -25,3 +25,10 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - Teaser de marca: Demand Gen y Meta tráfico, $40.000 por día cada una.
 - Subas: Teaser 0%; Cyber Monday +30% / +60%; Cyber Week +15% / +30% (conservador / agresivo). CPM y CPC +15%.
 - Conversión: cotización completa según la plataforma.
+
+## Teaser (decisión 22/10/2026)
+
+- El teaser es general de marca, sin campañas por producto ni descuentos. Rol: alcance y consideración (TOFU-MOFU).
+- Referencia 2025 (29/10 al 02/11/2025): Meta tráfico $123.424 (imagen + video) y Demand Gen $129.116 (video + multiformato), unos $50 mil por día entre los dos medios. Mensajes tipo "¡Llega el Cyber Monday a Sancor Seguros!" a /cybermonday.
+- 2026: $332.946 (base 2025 ajustada por inflación), 50% Demand Gen y 50% Meta. Lo arma el equipo en las pestañas "MP Cyber 2026 Escenario Base" y "Escenario Agresivo"; la pestaña "MP Cyber 2026" quedó como versión anterior.
+- KPI del teaser: alcance, impresiones, CPM, clics y visitas a la landing; no se le asignan cotizaciones. Las audiencias del teaser (visitantes y video viewers) alimentan el remarketing del Cyber Monday.

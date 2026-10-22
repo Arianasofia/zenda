@@ -32,3 +32,10 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - Referencia 2025 (29/10 al 02/11/2025): Meta tráfico $123.424 (imagen + video) y Demand Gen $129.116 (video + multiformato), unos $50 mil por día entre los dos medios. Mensajes tipo "¡Llega el Cyber Monday a Sancor Seguros!" a /cybermonday.
 - 2026: $332.946 (base 2025 ajustada por inflación), 50% Demand Gen y 50% Meta. Lo arma el equipo en las pestañas "MP Cyber 2026 Escenario Base" y "Escenario Agresivo"; la pestaña "MP Cyber 2026" quedó como versión anterior.
 - KPI del teaser: alcance, impresiones, CPM, clics y visitas a la landing; no se le asignan cotizaciones. Las audiencias del teaser (visitantes y video viewers) alimentan el remarketing del Cyber Monday.
+
+## BGT y conversiones (documento aparte)
+
+- "BGT y Conversiones - Cyber Monday 2026 | GSS": https://docs.google.com/spreadsheets/d/1uc4tVoXtMDNEcRZthHsMNAJ4dA0hIdAb6AnV7YNiyFQ
+- Toma los datos de la planilla del MP con IMPORTRANGE (pestaña oculta "Datos MP", rangos B22:T70 de "Escenario Base" y "Escenario Agresivo"). Si el equipo agrega o mueve filas en esas pestañas, hay que revisar las referencias.
+- Reparto diario: Teaser en partes iguales; Cyber Monday 34/34/32% y Cyber Week 30/26/22/22% (curva del Cyber 2025).
+- Control de consumo y objetivo de cotizaciones contra el escenario base.

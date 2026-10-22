@@ -33,10 +33,13 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - 2026: $332.946 (base 2025 ajustada por inflación), 50% Demand Gen y 50% Meta. Lo arma el equipo en las pestañas "MP Cyber 2026 Escenario Base" y "Escenario Agresivo"; la pestaña "MP Cyber 2026" quedó como versión anterior.
 - KPI del teaser: alcance, impresiones, CPM, clics y visitas a la landing; no se le asignan cotizaciones. Las audiencias del teaser (visitantes y video viewers) alimentan el remarketing del Cyber Monday.
 
-## Documento completo del Cyber 2026
+## Planilla final (la de Milly, 22/10/2026)
 
-- "BGT y Conversiones - Cyber Monday 2026 | GSS": https://docs.google.com/spreadsheets/d/1uc4tVoXtMDNEcRZthHsMNAJ4dA0hIdAb6AnV7YNiyFQ
-- Tiene todo junto, sin vínculos a otra planilla: MP Escenario Base, MP Escenario Agresivo, Valores ajustados por inflación, BGT Diario y Conversiones. La pestaña oculta "Datos MP" toma B22:T70 de cada escenario; si se agregan o mueven filas de campañas en el MP, revisar las referencias del BGT y Conversiones.
-- Reparto diario: Teaser en partes iguales; Cyber Monday 34/34/32% y Cyber Week 30/26/22/22% (curva del Cyber 2025).
-- Control de consumo y objetivo de cotizaciones contra el escenario base.
-- La planilla "Media Plan - Cyber Monday 2026 | GSS" quedó como estaba.
+- "Media Plan - Cyber Monday 2026 | GSS" (15mQRgY5f7ZZ7pDtXSztjkc6LTSYJ-4iJuEDjkKezAMs) es la versión que vale. Pestañas visibles: MP Cyber 2026 | Escenario Base, MP Cyber 2026 Escenario Agresivo, Supuestos, Comparativo, BGT Diario por producto (con selector de escenario), Conversiones. Ocultas: MP Cyber 2026 (versión vieja) y BGT Diario.
+- Inversión base por producto = MAX(2025 ajustado por inflación; día común × 7). Factor 1,331785 (oct 25 a oct 26) y 1,099846 para SSM y AP (base Hot Sale).
+- Agresivo: +23% Cyber Monday y +13% Cyber Week sobre el base; el extra va a las campañas con mejor CPA (% del extra en Supuestos).
+- Moto: CPC y tasa de cotización del Cyber 2025 (Google, 03/11 al 09/11/2025) ajustados por inflación. Con los benchmarks de octubre 2026 las cotizaciones daban 4 veces más.
+- Teaser: CPM y CPC del teaser 2025 ajustados (Meta y Demand Gen).
+- Hogar: costos y día común 2025 ajustados con el mismo factor (antes 22%).
+- Resultado: base $11.390.507 y 801 cotizaciones; agresivo $13.387.523 y 1.006 cotizaciones.
+- El documento aparte "BGT y Conversiones - Cyber Monday 2026 | GSS" (1uc4tVoX...) quedó con la versión anterior.

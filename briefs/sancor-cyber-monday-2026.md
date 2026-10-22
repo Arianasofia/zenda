@@ -33,9 +33,10 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - 2026: $332.946 (base 2025 ajustada por inflación), 50% Demand Gen y 50% Meta. Lo arma el equipo en las pestañas "MP Cyber 2026 Escenario Base" y "Escenario Agresivo"; la pestaña "MP Cyber 2026" quedó como versión anterior.
 - KPI del teaser: alcance, impresiones, CPM, clics y visitas a la landing; no se le asignan cotizaciones. Las audiencias del teaser (visitantes y video viewers) alimentan el remarketing del Cyber Monday.
 
-## BGT y conversiones (documento aparte)
+## Documento completo del Cyber 2026
 
 - "BGT y Conversiones - Cyber Monday 2026 | GSS": https://docs.google.com/spreadsheets/d/1uc4tVoXtMDNEcRZthHsMNAJ4dA0hIdAb6AnV7YNiyFQ
-- Toma los datos de la planilla del MP con IMPORTRANGE (pestaña oculta "Datos MP", rangos B22:T70 de "Escenario Base" y "Escenario Agresivo"). Si el equipo agrega o mueve filas en esas pestañas, hay que revisar las referencias.
+- Tiene todo junto, sin vínculos a otra planilla: MP Escenario Base, MP Escenario Agresivo, Valores ajustados por inflación, BGT Diario y Conversiones. La pestaña oculta "Datos MP" toma B22:T70 de cada escenario; si se agregan o mueven filas de campañas en el MP, revisar las referencias del BGT y Conversiones.
 - Reparto diario: Teaser en partes iguales; Cyber Monday 34/34/32% y Cyber Week 30/26/22/22% (curva del Cyber 2025).
 - Control de consumo y objetivo de cotizaciones contra el escenario base.
+- La planilla "Media Plan - Cyber Monday 2026 | GSS" quedó como estaba.

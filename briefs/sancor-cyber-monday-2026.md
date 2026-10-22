@@ -38,8 +38,8 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - "Media Plan - Cyber Monday 2026 | GSS" (15mQRgY5f7ZZ7pDtXSztjkc6LTSYJ-4iJuEDjkKezAMs) es la versión que vale. Pestañas visibles: MP Cyber 2026 | Escenario Base, MP Cyber 2026 Escenario Agresivo, Supuestos, Comparativo, BGT Diario por producto (con selector de escenario), Conversiones. Ocultas: MP Cyber 2026 (versión vieja) y BGT Diario.
 - Inversión base por producto = MAX(2025 ajustado por inflación; día común × 7). Factor 1,331785 (oct 25 a oct 26) y 1,099846 para SSM y AP (base Hot Sale).
 - Agresivo: +23% Cyber Monday y +13% Cyber Week sobre el base; el extra va a las campañas con mejor CPA (% del extra en Supuestos).
-- Moto: CPC y tasa de cotización del Cyber 2025 (Google, 03/11 al 09/11/2025) ajustados por inflación. Con los benchmarks de octubre 2026 las cotizaciones daban 4 veces más.
+- Moto: inversión actual (día común $10.199 × 7 = $71.393), por el recorte de presupuesto desde el 07/10. Con ese volumen se usan los benchmarks de octubre 2026.
 - Teaser: CPM y CPC del teaser 2025 ajustados (Meta y Demand Gen).
 - Hogar: costos y día común 2025 ajustados con el mismo factor (antes 22%).
-- Resultado: base $11.390.507 y 801 cotizaciones; agresivo $13.387.523 y 1.006 cotizaciones.
+- Resultado: base $9.930.347 y 596 cotizaciones; agresivo $11.663.657 y 772 cotizaciones.
 - El documento aparte "BGT y Conversiones - Cyber Monday 2026 | GSS" (1uc4tVoX...) quedó con la versión anterior.

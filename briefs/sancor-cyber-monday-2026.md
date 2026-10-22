@@ -17,7 +17,8 @@ El cliente pide la propuesta de inversión por etapa. No mandó presupuesto: se 
 - SSM (Salud Segura Max): promoción vigente, 30% OFF.
 - AP 24 HS: 30% OFF.
 
-## Media plan (media-plans/sancor/build_mp_cyber_2026.py)
+## Media plan
+- Planilla del equipo: "Media Plan - Cyber Monday 2026 | GSS" (id 15mQRgY5f7ZZ7pDtXSztjkc6LTSYJ-4iJuEDjkKezAMs), pestañas MP Cyber 2026, BGT Diario y Conversiones. El xlsx de media-plans/sancor/ es la versión de respaldo (build_mp_cyber_2026.py).
 - Día común: gasto real diario por campaña del 08/10 al 21/10/2026 (SeePM). Moto bajó su inversión desde el 07/10 y Search Brand de Moto está pausada.
 - Hogar no pauta en 2026: base del Cyber 2025 (20/10 al 01/11/2025) +22% de inflación.
 - SSM no tiene pauta: Search Not Brand nueva, $30.000 por día propuestos, benchmark de AP Search Not Brand.
